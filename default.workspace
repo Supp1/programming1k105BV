@@ -7,5 +7,7 @@
 		<Project filename="Lab04/Lab04.cbp" />
 		<Project filename="linkMenu/linkMenu.cbp" />
 		<Project filename="Lab05/Lab05.cbp" />
+		<Project filename="Lab06/Lab06.cbp" />
+		<Project filename="Lab6OOP/Lab6OOP.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
