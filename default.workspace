@@ -8,6 +8,10 @@
 		<Project filename="linkMenu/linkMenu.cbp" />
 		<Project filename="Lab05/Lab05.cbp" />
 		<Project filename="Lab06/Lab06.cbp" />
-		<Project filename="Lab6OOP/Lab6OOP.cbp" />
+		<Project filename="cppVectors/cppVectors.cbp" />
+		<Project filename="Lab01CPP/Lab01CPP.cbp" />
+		<Project filename="Learn/Learn.cbp" />
+		<Project filename="Lab02CPP/Lab02CPP.cbp" />
+		<Project filename="Lab03CPP/Lab03CPP.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
